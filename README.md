@@ -2,9 +2,9 @@
 
 <div align="center">
 
-# Angelique
+# Angelique Verhelpen
 
-> Frontend or full-stack engineer
+> Full-stack Student
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=angeliqueverhelpen-cmd&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F266877557%3Fu%3D400b51b91eaff3773b1bab5ea00f1640defb862b%26v%3D4" alt="angeliqueverhelpen-cmd hero visual" />
@@ -19,7 +19,7 @@
 - 📍 Based in **Oost Vlaanderen **
 - 👥 **0** followers · **0** following
 
-*Small, useful work over vague claims.*
+*Small, useful work.*
 
 ## Things I’m building
 
