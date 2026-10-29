@@ -16,7 +16,7 @@
 
 > Learning to build things that work and look good, full-stack, automation, DevOps, AI, and a suspicious amount of design enthusiasm. 
 
-- 📍 Based in **Oost Vlaanderen **
+- 📍 Based in ** Oost Vlaanderen **
 - 👥 **0** followers · **0** following
 
 *Small, useful work.*
